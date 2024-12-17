@@ -1,5 +1,0 @@
-projet RO : synchronisation des données 
-remarques prof : Changement au niveau des contarintes ->  créer un nouveau probleme : probleme variant
-types des algo :  
-*exacte(algo récursive) : solution optimale 
-*apporroché : solution proche de solution optimale )
