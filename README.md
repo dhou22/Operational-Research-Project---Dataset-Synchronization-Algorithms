@@ -5,7 +5,7 @@
 - The goal is to understand the strengths and weaknesses of each algorithm when applied to datasets of varying sizes, providing insights into their efficiency and scalability. <br>
 - The findings from this analysis aim to guide the selection of the most suitable algorithm for specific dataset synchronization tasks. <br> <br>
 
-  **Key Findings**
+**Key Findings**
   - Genetic Algorithm: <br>
      - Demonstrates superior performance on small datasets. <br>
      - Struggles with larger datasets, often failing to deliver optimal results due to increased computational complexity. <br>
@@ -17,7 +17,7 @@
   - Local Search Algorithm: <br>
      - Performs moderately well but does not achieve the efficiency of the greedy algorithm on large datasets. <br> <br>
    
-  **Methodology** <br>
+ **Methodology** <br>
    - Problem Understanding: <br>
       - Analyzing the requirements and challenges associated with dataset synchronization.<br>
     
@@ -36,8 +36,8 @@
      - Drawing actionable conclusions to guide algorithm selection in future applications.<br> <br>
 
 
- **Insights and Recommendations** <br>
-   -Algorithm Selection:: <br>
+**Insights and Recommendations** <br>
+   - Algorithm Selection: <br>
       - For small datasets, prioritize genetic algorithms for their ability to explore the solution space effectively.<br>
       - For large datasets, adopt greedy algorithms for their scalability and computational efficiency. <br>
       - Local search algorithms may be considered for mid-sized datasets or as a supplementary method in combination with other algorithms. <br>
